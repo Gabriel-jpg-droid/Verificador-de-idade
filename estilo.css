@@ -1,0 +1,30 @@
+body {
+    background: rgb(5, 5, 183);
+    font: normal 15px arial;
+}
+
+header {   
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px; /*faz a borda onde a pessoa vai escrever*/
+    padding: 8px; /* server para dar largura onde a pessoa vai escrever */
+    width: 500px;
+    margin: auto;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.632); /* serve para dar uma sombra*/
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
